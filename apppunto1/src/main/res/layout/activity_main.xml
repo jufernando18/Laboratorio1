@@ -66,8 +66,7 @@
                 android:onClick="onRadioButtonClicked"
                 android:layout_gravity="left"
                 />
-
-
+            
         </RadioGroup>
     </LinearLayout>
     <LinearLayout
