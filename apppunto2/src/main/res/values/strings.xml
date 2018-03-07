@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="titulo">Diligencie el formulario</string>
+    <string name="nombre">Ingrese su nombre</string>
+    <string name="correo">Ingrese su correo</string>
+    <string name="contrasena">Ingrese su contraseña</string>
+    <string name="contrasena2">Repita de nuevo su contraseña</string>
+    <string name="masculino">masculino</string>
+    <string name="femenino">femenino</string>
+    <string name="sexo">sexo:</string>
+    <string name="fecha">calendario</string>
+    <string name="i_fecha">fecha de nacimiento</string>
+    <string name="leer">leer</string>
+    <string name="nadar">nadar</string>
+    <string name="bailar">bailar</string>
+    <string name="comer">comer</string>
+    <string name="hobbie">hobbies</string>
+    <string name="aceptar">aceptar</string>
+    <string name="informacion" />
+    <string name="nacimiento">ciudad de nacimiento:</string>
+    <string-array name="opciones">
+        <item></item>
+        <item>Medellin</item>
+        <item>Bogotá</item>
+        <item>Cartagena</item>
+        <item>Rionegro</item>
+        <item>Bello</item>
+        <item>Envigado</item>
+    </string-array>
+</resources>

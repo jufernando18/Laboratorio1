@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calcula</string>
+    <string name="cubo">cubo</string>
+    <string name="cuadrado">cuadrado</string>
+    <string name="triangulo">triangulo</string>
+    <string name="circulo">circulo</string>
+    <string name="titulo">Seleccione la figura a caracterizar:</string>
+    <string name="perimetro">perimetro:</string>
+    <string name="area">area:</string>
+    <string name="volumen">volumen:</string>
+    <string name="inputdato">ingresar dato</string>
+    <string name="entradadato">Tamaño del lado</string>
+    <string name="calcular">calcular</string>
+</resources>
